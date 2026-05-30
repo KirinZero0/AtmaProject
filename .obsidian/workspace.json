@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0632542ad82dd4bf",
+            "id": "9fd4b90a18ca7bd5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Game Design Folder/Corruption Mechanics.canvas",
                 "viewState": {
-                  "x": -25,
-                  "y": -217.74069148936172,
-                  "zoom": -1.2535709211907375
+                  "x": -77.04904545489319,
+                  "y": -112.68745377918867,
+                  "zoom": -1.3688895759044784
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,51 +25,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ee124e55bc63ebb8",
-        "type": "split",
-        "children": [
-          {
-            "id": "de9fa4f96929f56d",
-            "type": "tabs",
-            "dimension": 69.44444444444444,
-            "children": [
-              {
-                "id": "07e0bcb738614d8e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters Folder/Named Characters/Prince Natha.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prince Natha"
-                }
-              }
-            ]
-          },
-          {
-            "id": "0182eb2dfe8803f8",
-            "type": "tabs",
-            "dimension": 30.555555555555557,
-            "children": [
-              {
-                "id": "7a64657031d55869",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -228,39 +183,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a64657031d55869",
+  "active": "9fd4b90a18ca7bd5",
   "lastOpenFiles": [
-    "Game Design Folder/Corruption Mechanics.canvas",
     "Game Design Folder/Map.canvas",
-    "Characters Folder/Named Characters/Prince Natha.md",
-    "Named Characters.md",
+    "Game Design Folder/Corruption Mechanics.canvas",
+    "Game Design Folder/Combat System.canvas",
+    "Locations Folder/Narendra.md",
+    "Game Design Folder/Combat System.canvas.tmp.11480.e89f866c534c",
+    "Game Design Folder/Combat System.canvas.tmp.11480.f1ea7cf3de8a",
     "Game Design.md",
+    "Game Design Folder/Images/Dagger Reference.png",
+    "Bow Reference.png",
+    "Game Design Folder/Images/Sword Reference.png",
+    "Game Design Folder/Images/Gauntlet Reference.png",
+    "Locations Folder/The Shore.md",
+    "Locations.md.tmp.11480.c60d0127ca67",
+    "Locations Folder/The Shore.md.tmp.11480.5c2e3e277faf",
+    "Named Characters.md.tmp.11480.d8a48c720b86",
+    "Characters Folder/Named Characters/Satya.md",
+    "Characters Folder/Named Characters/Satya.md.tmp.11480.49642e86bf87",
+    "Game Design Folder/Map.canvas.tmp.11480.c48a0fd19607",
+    "Game Design Folder/Map.canvas.tmp.11480.0cc8650ec734",
+    "Game Design Folder/Map.canvas.tmp.11480.700a500e69ce",
+    "Locations.md",
+    "Characters Folder/Named Characters/Prince Natha.md",
+    "Game Design Folder/Images/Named Characters.md",
     "Characters Folder/Named Characters/Antara.md",
     "Characters Folder/Named Characters/Ki Luruh.md",
     "Characters Folder/Named Characters/Sayan.md",
-    "Locations.md",
     "2026-05-30.md",
     "Untitled.canvas",
-    "Masks.png",
+    "Game Design Folder/Images/Masks.png",
     "Game Design Folder/Images/Dominated (Controlled) Mask.png",
     "Game Design Folder/Images/Consumed (Corrupted) Mask.png",
     "Game Design Folder/Images/Sealed (Neutral) Mask.png",
-    "Game Design Folder/Combat System.canvas",
     "Game Design Folder/Images",
-    "Game Design Folder/Corruption Mechanics.canvas.tmp.19720.6c8fa982578d",
-    "Game Design Folder/Corruption Mechanics.canvas.tmp.19720.301b4ea4fbdb",
-    "Locations Folder/Narendra.md.tmp.19720.54c2561437ee",
-    "Locations Folder/Narendra.md.tmp.19720.2a34d7b8120a",
-    "Characters Folder/Named Characters/Antara.md.tmp.19720.c1c9058acdf2",
-    "Characters Folder/Named Characters/Antara.md.tmp.19720.4c41c7601356",
-    "Characters Folder/Named Characters/Antara.md.tmp.19720.c5f561e70154",
     "Locations Folder/Communion Island.md",
-    "Locations Folder/Narendra.md",
-    "Locations Folder",
     "Characters.md",
     "Characters Folder/Named Characters/Wikananda.md",
     "Characters Folder/Named Characters/Rangda.md",
-    "Characters Folder/Named Characters",
     "2026-05-29.md",
     "Untitled 1.canvas",
     "Welcome.md",
