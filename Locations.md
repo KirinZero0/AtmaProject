@@ -2,3 +2,4 @@
 [[Communion Island]]
 [[The Shore]]
 [[Middle Ground]]
+[[Cliff Temple]]
