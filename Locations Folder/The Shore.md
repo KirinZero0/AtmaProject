@@ -1,6 +1,6 @@
 # The Shore
 
-### Area Design Document | Balinese Horror RPG
+### Location Document | Lv 0
 
 ---
 
@@ -22,11 +22,21 @@ The sea is behind him. Everything else is in front.
 
 ---
 
+## Culture
+
+The Shore is fishing country. The people here have always been people of the water — nets, tides, the rhythms of the sea dictating when you sleep and when you do not. They fight with daggers the way all fishing communities fight: short blade, close quarters, practical. A dagger guts a fish and opens a man with the same motion. Nobody here carries a sword.
+
+The Dagger King is the king they remember most. The statue in the village shows him the way all the statues show the kings — the Barong mask, not his face — but his weapon is the dagger, and the Shore people have always read this as kinship. Their king. A king who fought the way they fight.
+
+The offerings at the statue's base are small things: fishing cord, a fish hook, sometimes a blade worn to nothing by years of use. Left by people who believe the king who wore that face understood what it meant to live on this shore.
+
+---
+
 ## Visual Identity
 
 **Occupation as infrastructure.** Rangda's soldiers on the Shore do not perform their presence. They patrol the roads. They stand at intersections. They do not wear Rangda's iconography the way soldiers deeper in the island do — this is the outermost edge, the face the occupation shows to the water, where boats occasionally still arrive and appearances matter.
 
-The wrongness is in the small things. Shrine offerings rotated the wrong direction. Temple banners faded and unreplaced. The gate to the Shore Temple facing the village — locked from the inside, by the people holding the temple, against the people who used to worship there.
+The wrongness is in the small things. Shrine offerings rotated the wrong direction. Temple banners faded and unreplaced. The gate to the Shore Temple facing the village — locked from the inside, by soldiers holding the temple against the people who used to worship there.
 
 The village has built a small secondary shrine at the base of the gate. The closest they can get to their own sacred space. They perform their morning rites there and do not discuss what is behind the gate.
 
@@ -48,6 +58,8 @@ They will not help him. They will not obstruct him. They answer direct questions
 
 The gate to the Shore Temple is visible from the main road. Locked from the inside. The soldiers who took the temple sealed it behind them. The village shrine at its base is worn with use.
 
+The Dagger King Statue stands in the village square. One of the few statues on the Shore that still receives regular offerings. The mask face, the dagger in stone hands. The villagers maintain it out of old habit. They do not know what it is about to become.
+
 **III. Shore Area 1**
 
 The coastal path running parallel to the inland road, accessible from the village. Rangda's patrol routes favor the road — Shore Area 1 is thinner on soldiers, heavier on the natural world pushing back in. Spirit beasts have begun appearing at the tree line. Not aggressive. Territorial in the way animals are territorial when they know something is wrong with the air.
@@ -56,13 +68,25 @@ Shore Area 1 connects forward to Shore Area 2 and also feeds into the Shore Temp
 
 **IV. Shore Area 2**
 
-Where the occupation is organized. Supply caches. Heavier patrols. The Shore Boss operates from here — not a monster, a garrison commander. The officer responsible for the Shore's military presence: pragmatic, organized, experienced enough to know what a threat looks like and not experienced enough to know what the mask looks like.
+Where the occupation is organized. Supply caches. Heavier patrols.
 
-He carries the key to the Shore Temple gate. He does not survive the encounter.
+And the village chief.
 
-After the Shore Boss falls, a shortcut opens back to Shore Area 1 — the first loop, the first indication that the island is designed to be retraced.
+He is not hard to find. He is the loudest thing on the shore — crashing through the supply area, too large now for the spaces he used to occupy, the corruption that started when he first consumed a spirit beast years ago still rewriting him. He was the chief before the occupation. He consumed the beast believing it would make him strong enough to resist. It made him strong. It made him something else first.
 
-**The Hidden Temple Entrance** branches from Shore Area 2 — a puzzle-locked door in the cliff face, unmarked, pre-occupation architecture that Rangda's forces never found. The puzzle is the lock. The answer is knowledge assembled across the Shore. What is inside predates the kingdom and has been waiting, indifferently, for someone patient enough to reach it.
+He still uses a dagger. Muscle memory. His hands are wrong now but the grip is the same.
+
+**BOSS: Mutated Village Chief**
+
+The dagger is fast. He is fast. The body that consumed a spirit beast does not tire the way a body should and does not feel what it once felt, which means it does not hesitate.
+
+He is also not entirely gone. There are moments in the fight — gaps in the aggression, a half-second where the movement becomes something almost recognizable as a person. Then it closes again.
+
+When he falls, the body does not dissolve the way a spirit world creature would. He simply stops. Whatever was driving him past the point of exhaustion and reason is no longer driving. He is on the ground and he is quiet and whatever was left of the chief inside the mutated form is not suffering anymore.
+
+He carries the key to the Shore Temple gate. He has been carrying it for years. Possibly he forgot why.
+
+After the fight, Natha approaches the Dagger King Statue in the village. The mask recognizes the weapon in stone. A memory surfaces — the king who understood that a short blade in the right hands ends things faster than a long one. The dagger manifests.
 
 **V. Shore Temple**
 
@@ -76,11 +100,13 @@ They were not prepared for the mask.
 
 The open space below the gate. Once used for communal ceremony. Currently a defensive position, soldiers placed to prevent anything from reaching the gate at the far end.
 
-The Temple Gate Boss holds this space. When it falls, the gate opens from the inside — the first time in years that lock has moved.
+**BOSS: The Gatekeeper**
 
-**Shore Temple Gate**
+Rangda's soldier. Not a commander — a specialist. The person assigned specifically to hold this gate against anything that reached it. He has held this position for years without incident. His discipline is intact. His technique is intact. He does not know what the mask is but he knows the person wearing it is not going to stop, which means he cannot either.
 
-The gate that has been locked against the village for as long as anyone here can remember. When it opens, it opens toward the village road below. The shrine the villagers built at its base is now on the other side of a door that is no longer closed.
+This is a straight fight. No tragedy here, no half-remembered humanity. He chose this and he is still choosing it at the moment it ends.
+
+When he falls, the gate opens from the inside for the first time in years. The lock Natha used the village chief's key to disengage from Shore Area 2 now turns from this side. The door swings toward the village road below. The shrine at its base is on the other side of a door that is no longer closed.
 
 The game does not pause for this. Natha is already moving toward the Grassland above. What happens in the village behind him is background — people returning to their own temple, rites performed in the correct location for the first time in a generation. Small. Real. Entirely beside the point of what Natha is doing, which is also entirely the point.
 
@@ -110,7 +136,7 @@ The reward is the **Audience Mantra**, carved into the chamber wall. Left delibe
 
 Natha washes up on the Shore knowing nothing. He leaves the Shore through the temple gate knowing the island's shape — that it is occupied, that the occupation has a logic, that the people living under it are not its allies but are not its enemies either, that there is a key to something much larger sitting in the dark beneath Shore Area 2 if he looks for it.
 
-He also leaves with the rebellion's location, assuming he finds the hidden passage the Rebellion Base connects to via the Veil. The Shore is where the world becomes navigable. Everything before this was falling.
+He also leaves with a new weapon and the memory of a king who carried it. The dagger that killed the village chief was the same shape as the one in the statue's hands. Natha does not know if that means anything. It does.
 
 ---
 
@@ -120,29 +146,25 @@ He also leaves with the rebellion's location, assuming he finds the hidden passa
 THE SHORE
 ├── Shore (Start) — washes up, mask active, first patrol visible
 │
-├── Shore Village — living NPCs, locked temple gate, neutral civilians
+├── Shore Village — living NPCs, locked temple gate, Dagger King Statue
 │
 ├── Shore Area 1 — coastal path, sparse patrols, spirit beasts at treeline
 │   ├── → Shore Area 2
 │   └── → Shore Temple (back entrance, open)
 │
 ├── Shore Area 2 — organized occupation, supply caches
-│   ├── BOSS: Shore Boss → key to Shore Temple gate
+│   ├── BOSS: Mutated Village Chief → Shore Temple key + Dagger King Statue
 │   │   └── shortcut opens → Shore Area 1
 │   └── Hidden Temple Entrance (puzzle-locked, optional)
 │       ├── Hidden Temple Area 1
 │       │   ├── → Hidden Temple Area 2 → Hidden Temple Boss
-│       │   └── X (blocked door, direct route to boss — locked)
+│       │   └── X (blocked door, direct route to boss — locked from boss side)
 │       └── Hidden Temple Boss → Audience Mantra
 │
-├── Shore Temple — occupied garrison
+├── Shore Temple — occupied garrison, entered from Area 1 back entrance
 │   ├── Shore Temple Courtyard
-│   └── BOSS: Temple Gate Boss → gate opens
+│   └── BOSS: The Gatekeeper (Rangda's soldier) → gate opens
 │       └── Village ↔ Temple shortcut unlocks
 │
-└── Shore Temple Gate → Grassland Entry
+└── Shore Temple Gate → Middle Ground Entry
 ```
-
----
-
-_Document version 1.0 — Shore area complete_
