@@ -2,7 +2,7 @@
 
 _Balinese Mythology Horror RPG — Protagonist Design_
 
-Relation: [[Antara]], [[Wikananda]], [[Sayan]]
+Relation: [[Antara]], [[Wikananda]], [[Sayan]], [[Rangda]]
 ## Overview
 
 The prince is the protagonist of a dark horror RPG set on Devata Island, a place rotting under
