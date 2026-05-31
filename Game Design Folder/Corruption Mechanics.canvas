@@ -21,9 +21,9 @@
 		{"id":"daa21684e71b5f4e","type":"text","text":"Good Ending","x":-800,"y":-718,"width":250,"height":60,"color":"3"},
 		{"id":"9e03e714b5268e83","type":"text","text":"Hard","x":-800,"y":-636,"width":250,"height":60,"color":"3"},
 		{"id":"c553ab765eff32d1","type":"text","text":"Keep Dying","x":85,"y":30,"width":250,"height":60,"color":"1"},
-		{"id":"4e9515508c8b690a","type":"file","file":"Game Design Folder/Images/Dominated (Controlled) Mask.png","x":-300,"y":-836,"width":220,"height":235,"color":"3"},
-		{"id":"3591136087e3182a","type":"file","file":"Game Design Folder/Images/Consumed (Corrupted) Mask.png","x":180,"y":-776,"width":239,"height":281,"color":"1"},
-		{"id":"2b35e8a039ced51d","type":"file","file":"Game Design Folder/Images/Sealed (Neutral) Mask.png","x":-277,"y":680,"width":284,"height":206}
+		{"id":"4e9515508c8b690a","type":"file","file":"Game Design Folder/Images/Corruption Mechanics/Dominated (Controlled) Mask.png","x":-300,"y":-836,"width":220,"height":235,"color":"3"},
+		{"id":"3591136087e3182a","type":"file","file":"Game Design Folder/Images/Corruption Mechanics/Consumed (Corrupted) Mask.png","x":180,"y":-776,"width":239,"height":281,"color":"1"},
+		{"id":"2b35e8a039ced51d","type":"file","file":"Game Design Folder/Images/Corruption Mechanics/Sealed (Neutral) Mask.png","x":-277,"y":680,"width":284,"height":206}
 	],
 	"edges":[
 		{"id":"fd4963d3823e1562","fromNode":"97bda388257e5d3b","fromSide":"top","toNode":"c553ab765eff32d1","toSide":"left","color":"1"},

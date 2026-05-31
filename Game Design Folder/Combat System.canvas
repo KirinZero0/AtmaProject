@@ -23,12 +23,12 @@
 		{"id":"928e5192876ca844","type":"text","text":"Shield Destroyer","x":-285,"y":380,"width":250,"height":60},
 		{"id":"afd1030ae015381c","type":"text","text":"Burst Damage","x":-285,"y":480,"width":250,"height":60},
 		{"id":"d676ef33c2b1a9d3","type":"text","text":"Win: Everything (Boss need tight timing)","x":60,"y":260,"width":250,"height":60},
-		{"id":"ac18b1750bec7d8a","type":"file","file":"Game Design Folder/Images/Gauntlet Reference.png","x":10,"y":374,"width":275,"height":187},
-		{"id":"5b6b65b9b237aef0","type":"file","file":"Bow Reference.png","x":-575,"y":-565,"width":210,"height":311},
-		{"id":"5846252df3dd34b5","type":"file","file":"Game Design Folder/Images/Sword Reference.png","x":96,"y":-462,"width":314,"height":165},
+		{"id":"ac18b1750bec7d8a","type":"file","file":"Game Design Folder/Images/Combat System/Gauntlet Reference.png","x":10,"y":374,"width":275,"height":187},
+		{"id":"5b6b65b9b237aef0","type":"file","file":"Game Design Folder/Images/Combat System/Bow Reference.png","x":-575,"y":-565,"width":210,"height":311},
+		{"id":"5846252df3dd34b5","type":"file","file":"Game Design Folder/Images/Combat System/Sword Reference.png","x":96,"y":-462,"width":314,"height":165},
 		{"id":"dagger_bleed","type":"text","text":"Bleed","x":-720,"y":70,"width":250,"height":60},
 		{"id":"dagger_counter","type":"text","text":"Counter Attack\n(Perfect Dodge)","x":-1030,"y":-30,"width":250,"height":60},
-		{"id":"c5f379175c35710b","type":"file","file":"Game Design Folder/Images/Dagger Reference.png","x":-775,"y":193,"width":400,"height":127}
+		{"id":"c5f379175c35710b","type":"file","file":"Game Design Folder/Images/Combat System/Dagger Reference.png","x":-775,"y":193,"width":400,"height":127}
 	],
 	"edges":[
 		{"id":"54629127e1220e55","fromNode":"00e03379c8347b30","fromSide":"bottom","toNode":"4572ed0171158483","toSide":"top","toEnd":"none"},
