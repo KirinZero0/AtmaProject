@@ -12,20 +12,20 @@ She took refuge in the lake, drawn to the water as the closest thing to the spir
 
 She is still partially herself. She remembers what she was. But the material body acts on its own, and she cannot always stop it.
 
-The sash she holds — wound around her, never released — is the last thing she has that is purely hers. A remnant of her celestial form, kept close as an anchor to her identity.
-
 ## Encounter
 
-Natha finds her in the center of the lake temple. She appears still, almost like a statue. It is unclear at first whether she is alive.
+Natha finds her in the center of the lake temple. He approaches the statue expecting to find the Mystic Sash — there is nothing there. Only the statue. Then the lake moves.
 
 She does not want to fight. But the body does.
 
-Killing the material form releases her. The body dissolves. For a moment, her true form is visible — ascending, weightless, gone.
+Killing the material form releases her. The body dissolves. For a moment, her true form is visible — ascending, weightless, present for just long enough.
 
-The sash remains.
+## The Mantra
 
-## The Sash
+The sash was never hers. It is part of Natha's attire — the ceremonial cloth that drifts and moves around him like a living aura. He has worn it since before the mask. He has never been able to control it.
 
-A length of sacred cloth that extends freely, as if alive. In her hands it was memory. In Natha's hands it becomes a tool.
+In her final moment of lucidity, before she ascends, the Dedari sees the cloth. A celestial being recognizing something sacred that its wearer does not yet understand. She gives Natha the mantra — the correct words to speak to the cloth, the address that turns passive movement into directed will.
 
-It should feel like taking something that was never meant to be taken.
+It is her last act. Not a trade. Not a reward. Just grace, offered freely by something returning home to a young man still figuring out what he is carrying.
+
+After the mantra the cloth responds. What drifted now reaches. What moved on its own now moves with intention. The traversal tool Natha has been wearing the entire game becomes what it always was — an extension of himself, finally understood.
