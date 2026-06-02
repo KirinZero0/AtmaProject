@@ -35,7 +35,7 @@ Main (Node)
 
 ## Player Scene
 
-Top-level StateMachine handles character-wide states only. Each weapon owns its own combat sub-states — no shared AttackState or DodgeState that checks which weapon is active.
+Top-level StateMachine handles character-wide states only. Each weapon is a script that `extends WeaponBase` — attack/dodge/parry are virtual methods overridden per weapon. `WeaponManager` calls `active_weapon.attack()` without knowing which weapon is active (polymorphism).
 
 ```
 Player (CharacterBody)
@@ -44,38 +44,52 @@ Player (CharacterBody)
 ├── StateMachine (Node)             ← character-level states only
 │   ├── IdleState
 │   ├── MoveState
-│   ├── WeaponActionState           ← delegates to active weapon's sub-SM
+│   ├── WeaponActionState           ← calls active_weapon.attack() / .dodge() / .parry()
 │   ├── WeaponSwitchState           ← brief switch animation
 │   └── DeadState
 ├── HurtBox (Area)
 │   └── CollisionShape
-├── WeaponManager (Node)            ← tracks active weapon, routes input
-│   ├── Bow
+├── WeaponManager (Node)            ← tracks active_weapon, routes input to it
+│   ├── Bow          (extends WeaponBase)
 │   │   ├── HitBox (Area)
-│   │   ├── ArrowSpawner
-│   │   └── StateMachine            ← bow-specific states
-│   │       ├── AttackState         (projectile, low dmg, combo extender)
-│   │       ├── AimState            (hold to aim, movement allowed)
-│   │       └── KnockState          (knock flying enemy follow-up)
-│   ├── Dagger
+│   │   └── ArrowSpawner
+│   ├── Dagger       (extends WeaponBase)
 │   │   ├── HitBox (Area)
-│   │   └── StateMachine            ← dagger-specific states
-│   │       ├── AttackState         (fast, bleed on hit)
-│   │       └── DodgeState          (perfect dodge → opens CounterWindow)
-│   │           └── CounterWindow   (Timer — counter attack if hit in window)
-│   ├── Sword
-│   │   ├── HitBox (Area)
-│   │   └── StateMachine            ← sword-specific states
-│   │       ├── AttackState         (moderate dmg, all-rounder)
-│   │       └── DeflectState        (parry — win vs medium, lose vs huge)
-│   └── Gauntlet
-│       ├── HitBox (Area)
-│       └── StateMachine            ← gauntlet-specific states
-│           ├── AttackState         (burst dmg, shield destroyer)
-│           └── BlockState          (deflect, absorb — then burst window)
+│   │   └── CounterWindow (Timer)   ← opened on perfect dodge
+│   ├── Sword        (extends WeaponBase)
+│   │   └── HitBox (Area)
+│   └── Gauntlet     (extends WeaponBase)
+│       └── HitBox (Area)
 └── AtmaMask (Node)                 ← mask state, visual, corruption link
     └── MaskSprite
 ```
+
+### WeaponBase (script — not a node)
+
+Defines the interface all weapons implement. Shared logic (hitbox enable/disable, animation trigger) lives here once.
+
+```
+WeaponBase extends Node
+│
+├── func attack()       → override per weapon
+├── func dodge()        → override per weapon  
+├── func parry()        → override per weapon
+├── func move_modifier()→ override per weapon (e.g. dagger is faster)
+│
+└── shared base logic:
+    ├── enable_hitbox()
+    ├── disable_hitbox()
+    └── emit hit signals
+```
+
+### Per-weapon overrides (what each weapon changes)
+
+| Weapon | attack() | dodge() | parry() |
+|---|---|---|---|
+| Bow | projectile + combo extender | reposition step | — |
+| Dagger | fast multi-hit + bleed | perfect dodge → open CounterWindow | counter strike |
+| Sword | moderate dmg | roll | deflect (win vs medium, lose vs huge) |
+| Gauntlet | burst + shield break | slow step | block → burst window |
 
 ---
 
