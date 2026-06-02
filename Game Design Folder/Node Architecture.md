@@ -35,30 +35,45 @@ Main (Node)
 
 ## Player Scene
 
+Top-level StateMachine handles character-wide states only. Each weapon owns its own combat sub-states — no shared AttackState or DodgeState that checks which weapon is active.
+
 ```
 Player (CharacterBody)
 ├── CollisionShape
 ├── Sprite / AnimationPlayer
-├── StateMachine (Node)
+├── StateMachine (Node)             ← character-level states only
 │   ├── IdleState
 │   ├── MoveState
-│   ├── AttackState
-│   ├── DodgeState
+│   ├── WeaponActionState           ← delegates to active weapon's sub-SM
+│   ├── WeaponSwitchState           ← brief switch animation
 │   └── DeadState
 ├── HurtBox (Area)
 │   └── CollisionShape
-├── WeaponManager (Node)        ← handles switching, delegates input
+├── WeaponManager (Node)            ← tracks active weapon, routes input
 │   ├── Bow
 │   │   ├── HitBox (Area)
-│   │   └── ArrowSpawner
+│   │   ├── ArrowSpawner
+│   │   └── StateMachine            ← bow-specific states
+│   │       ├── AttackState         (projectile, low dmg, combo extender)
+│   │       ├── AimState            (hold to aim, movement allowed)
+│   │       └── KnockState          (knock flying enemy follow-up)
 │   ├── Dagger
 │   │   ├── HitBox (Area)
-│   │   └── PerfectDodgeWindow  ← timer for counter window
+│   │   └── StateMachine            ← dagger-specific states
+│   │       ├── AttackState         (fast, bleed on hit)
+│   │       └── DodgeState          (perfect dodge → opens CounterWindow)
+│   │           └── CounterWindow   (Timer — counter attack if hit in window)
 │   ├── Sword
-│   │   └── HitBox (Area)
+│   │   ├── HitBox (Area)
+│   │   └── StateMachine            ← sword-specific states
+│   │       ├── AttackState         (moderate dmg, all-rounder)
+│   │       └── DeflectState        (parry — win vs medium, lose vs huge)
 │   └── Gauntlet
-│       └── HitBox (Area)
-└── AtmaMask (Node)             ← mask state, visual, corruption link
+│       ├── HitBox (Area)
+│       └── StateMachine            ← gauntlet-specific states
+│           ├── AttackState         (burst dmg, shield destroyer)
+│           └── BlockState          (deflect, absorb — then burst window)
+└── AtmaMask (Node)                 ← mask state, visual, corruption link
     └── MaskSprite
 ```
 
