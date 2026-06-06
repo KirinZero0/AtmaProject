@@ -1,1 +1,2 @@
 [[Atma]]
+[[Spirit Beast Consumption]]

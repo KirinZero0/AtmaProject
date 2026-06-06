@@ -3,3 +3,4 @@
 [[The Shore]]
 [[Middle Ground]]
 [[Cliff Temple]]
+[[Capital Outskirts]]
