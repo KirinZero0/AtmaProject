@@ -28,9 +28,9 @@ Every king who used this keris left something in it — not memories like the ma
 
 ## The Altar
 
-The keris was not passed to Natha by hand. It was waiting on the altar when the rebels brought him there — laid out alongside [[The Barong Mask]], ready for whoever the bloodline finally sent. The rebels had kept both objects for years, running candidate after candidate through the same ritual, hoping one would take.
+The keris was not passed to Natha by hand. It was waiting on the altar when the conspirators brought him there — laid out alongside [[The Barong Mask]], ready for whoever the bloodline finally sent. the conspirators had kept both objects for years, running candidate after candidate through the same ritual, hoping one would take.
 
-His father was among those candidates. He came to Devata ten years before Natha, found the rebellion, believed in what they were doing. He stood at the same altar, with the same keris and the same mask. It wasn't enough. The mask rejected him and consumed him. He became one of the headless bodies arranged in a ring around the altar where his son would later wake up.
+His father was among those candidates. He came to Devata ten years before Natha, found the conspiracy, believed in what they were doing. He stood at the same altar, with the same keris and the same mask. It wasn't enough. The mask rejected him and consumed him. He became one of the headless bodies arranged in a ring around the altar where his son would later wake up.
 
 Natha came to consciousness surrounded by everything — the mask warm against his face, the keris within reach, his father's body somewhere in the ring without him knowing it. He picked up the keris because it was there and he needed something to hold.
 

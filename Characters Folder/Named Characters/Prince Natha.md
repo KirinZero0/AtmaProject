@@ -8,7 +8,7 @@ Relation: [[Antara]], [[Wikananda]], [[Sayan]], [[Rangda]]
 The prince is the protagonist of a dark horror RPG set on Devata Island, a place rotting under
 Rangda's dominion. He is not a hero. He is not chosen in any meaningful sense. He is a young
 man who came to a cursed island looking for his missing father and became something he never
-agreed to be — Barong's vessel, the rebellion's asset, a son who arrived too late.
+agreed to be — Barong's vessel, the conspiracy's asset, a son who arrived too late.
 
 He is the question at the center of the game's moral tension: can you do monstrous things for
 right reasons? The narrative never answers this cleanly. Neither does he.
@@ -85,7 +85,7 @@ He was led somewhere. There was an altar. Headless bodies arranged in a ring. He
 what he was looking at and then they held him down and put something on his face and then
 there was nothing until copper and dark ceiling and a blade his hand was already reaching for.
 
-The rebels did not know who he was. They grabbed him because he was available and disposable
+the conspirators did not know who he was. They grabbed him because he was available and disposable
 — a stranger, nobody's son in that moment, someone no one would miss if the mask consumed
 him like it consumed everyone else. They ran before they saw what happened. They assumed
 another corpse.
@@ -94,19 +94,19 @@ What walked out was not a corpse.
 
 **His Father**
 
-His father came to Devata Island ten years ago. He found the rebellion, worked with them,
+His father came to Devata Island ten years ago. He found the conspiracy, worked with them,
 believed in what they were trying to do. He tried the mask.
 
 
 The mask recognized his royal blood — enough to identify lineage, not enough to hold. He had
 the right bloodline and desperation instead of wholeness. The mask rejected him and then
-consumed him, preserving the bloodline for the son it had already decided to wait for. The rebels
+consumed him, preserving the bloodline for the son it had already decided to wait for. the conspirators
 beheaded him because there was no other option.
 
 He is one of the headless bodies circling the altar where his son woke up. The prince lay next to
 him and did not know.
 
-The priest cannot remember him specifically. He is one of countless. The rebellion ran so many
+The priest cannot remember him specifically. He is one of countless. the conspiracy ran so many
 people through that altar across so many years that the individual faces stopped being faces and
 started being attempts. The prince's father died nameless in someone else's accounting.
 
@@ -120,7 +120,7 @@ He does not know. That is the honest answer for most of the game. He woke up wit
 against his temple, heard it call him young prince, felt it ask _let me_ before it took over — and has
 been assembling the picture ever since.
 
-He does not trust it. He does not distrust it. He treats it the way he treats the rebels — cautiously.
+He does not trust it. He does not distrust it. He treats it the way he treats the conspirators — cautiously.
 Listens to what it says. Does not assume it is lying, does not assume it is telling the whole truth.
 Files everything and waits.
 
@@ -250,7 +250,7 @@ them all and still know where they end and he begins.
 **What He Thinks He's Doing**
 
 For most of the first half of the game: looking for his father. That is the whole reason. The island,
-the rebellion, the mask, Rangda — all of it is terrain between him and an answer about a man
+the conspiracy, the mask, Rangda — all of it is terrain between him and an answer about a man
 who left ten years ago.
 
 When the answer arrives in the worst possible form, the mission does not end. It changes shape.
@@ -265,7 +265,7 @@ the refusal to stop before the picture finishes assembling.
 The turn happens quietly. Not a revelation. Not a speech. A moment where he consciously
 chooses to continue, understanding for the first time what he is choosing and why. His father
 came here, tried, failed, died. The mask waited for the son. He is going to do what his father
-couldn't — not for the island, not for Barong, not for the rebellion.
+couldn't — not for the island, not for Barong, not for the conspiracy.
 
 Because his father deserved someone who came back for him. And this is the only form that is
 still possible.
@@ -273,7 +273,7 @@ still possible.
 That is not the same as his father coming home. He knows it is not the same. He chooses it
 anyway.
 
-## Relationship With The Rebellion
+## Relationship With the conspiracy
 
 **How It Starts**
 
@@ -287,7 +287,7 @@ honesty.
 
 **The Dynamic**
 
-The rebels think he is committed. The priest thinks he is destiny. Barong thinks he is doing his
+the conspirators think he is committed. The priest thinks he is destiny. Barong thinks he is doing his
 duty. None of them are seeing what is actually there — a young man who keeps walking because
 stopping would mean admitting there is nowhere to walk to.
 

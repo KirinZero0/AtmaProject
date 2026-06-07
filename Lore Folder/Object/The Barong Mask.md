@@ -54,6 +54,6 @@ It also grants superhuman strength to whoever wears it. The body becomes more th
 
 ## What It Wants
 
-The mask chose [[Prince Natha]]. It waited two hundred years after Dharma's refusal for the right bloodline to arrive. It identified him the moment the rebels placed it on his face — recognized the lineage, recognized the potential, and decided.
+The mask chose [[Prince Natha]]. It waited two hundred years after Dharma's refusal for the right bloodline to arrive. It identified him the moment the conspirators placed it on his face — recognized the lineage, recognized the potential, and decided.
 
 Whether that decision was the mask's or the Lion's is unclear. The connection between them runs deep enough that the distinction may not matter.

@@ -8,7 +8,7 @@
 
 The Shore is not where Natha intended to be. He fell here — off the cliff edge of the abandoned temple above, into the water below, and the sea carried him to the black sand beach and left him there. He woke up with salt in his lungs and the mask warm against his temple and his hands were not shaking. That was the first thing that frightened him.
 
-This is Lv 0. The entry point. The place where the game begins in earnest, not because Natha chose it but because the island chose it for him. He has no contact with the rebellion yet. He has no mission. He has a mask that just brought him back from the dead and a beach and a village in the middle distance and nowhere else to go.
+This is Lv 0. The entry point. The place where the game begins in earnest, not because Natha chose it but because the island chose it for him. He has no contact with the conspiracy yet. He has no mission. He has a mask that just brought him back from the dead and a beach and a village in the middle distance and nowhere else to go.
 
 The Shore is the most human part of the island — the outermost edge of Rangda's occupation, where the corruption is ambient rather than deliberate and people are still living their lives in the narrow space between compliance and survival. It will not stay this way. The deeper Natha goes, the further he gets from anything that resembles ordinary life. The Shore is the last of it.
 

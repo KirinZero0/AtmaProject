@@ -325,14 +325,14 @@ He is, in his way, rooting for the prince. Just not in a direction the prince wo
 He knows Wikananda. Has known him for longer than Wikananda would be comfortable
 discovering — has watched him from the spirit side of the membrane across enough years to
 have assembled a complete picture of the man, his theology, his guilt, his performance of
-certainty over the rebellion he has held together on faith alone.
+certainty over the conspiracy he has held together on faith alone.
 
 He has never once spoken to him. Not from any particular reason. Simply because there has been
 no occasion that required it, and Antara does not create occasions. He observes. Wikananda
 moves through his life entirely unaware that he has been observed by something that
 understands the mechanics of his sacred trust better than he does, that has watched every
 candidate at the altar, that was present — somewhere in the fog at the edge of the spirit world —
-for more of the rebellion's history than its own leader has been.
+for more of the conspiracy's history than its own leader has been.
 
 This is not surveillance in the way that implies intent to use. It is the habit of something that has
 spent its entire existence watching worlds it cannot belong to. Wikananda is simply part of what
@@ -341,7 +341,7 @@ before the priest's father was born.
 
 If Wikananda ever became aware of this, it would undo him in a specific way — not the guilt of
 the altar, not the weight of second-hand theology, but something quieter and harder: the
-realization that the thing watching his rebellion from the outside understood it more completely
+realization that the thing watching his conspiracy from the outside understood it more completely
 than he did, and said nothing, and had no obligation to.
 
 **Rangda**

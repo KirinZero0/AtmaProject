@@ -20,7 +20,7 @@ The reasons are his own — whether fear, pride, doubt, or something else is not
 
 Without the ritual, without the vessel, [[Rangda]] was not sealed. She was free.
 
-Devata Island fell under her dominion. The kingdom collapsed. What remained of the royal bloodline scattered. The rebellion went underground. The mask went silent, waiting.
+Devata Island fell under her dominion. The kingdom collapsed. What remained of the royal bloodline scattered. the conspiracy went underground. The mask went silent, waiting.
 
 ## 200 Years Later
 
@@ -28,6 +28,6 @@ Devata Island fell under her dominion. The kingdom collapsed. What remained of t
 
 Natha — a descendant of Dharma, 200 years removed, with no knowledge of what he carries in his blood — comes to Devata looking for his missing father. He does not come to break the cycle. He does not know there is a cycle to break.
 
-The rebellion finds him first. They put the mask on his face before he can say no.
+the conspiracy finds him first. They put the mask on his face before he can say no.
 
 The mask recognizes the bloodline immediately. It has been waiting two hundred years for this.

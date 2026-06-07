@@ -80,11 +80,11 @@ Children know not to be out after the evening ceremony ends.
 here, newer, placed beside rather than replacing. The headless king at civic scale — present on main
 streets, unremarked, part of the furniture of daily life.
 
-**Natha's entry:** He arrives with the rebel force at dawn or near it. The façade is still technically intact
-— market setting up, priests at morning shrines, puppet court soldiers on routine patrol. The rebels
+**Natha's entry:** He arrives with the conspirator force at dawn or near it. The façade is still technically intact
+— market setting up, priests at morning shrines, puppet court soldiers on routine patrol. the conspirators
 move through the streets and the city _feels_ it before it sees it.
 
-The beat here is not combat-first. It is conversion. Wikananda and the rebels work the population
+The beat here is not combat-first. It is conversion. Wikananda and the conspirators work the population
 while Natha pushes toward the court gate. The player hears it happening behind them — arguments,
 then silence, then footsteps joining. By the time Natha reaches the gate, the lower city is behind him.
 
@@ -119,7 +119,7 @@ positioned, unavoidable. The cut at the neck still visible if examined closely.
 **On Natha's arrival:** The puppet court did not flee. Some are true believers. Some have been
 collaborating for so long they have nowhere else to be. They fight — not well, but with the desperation
 of people who made a choice two hundred years of family history ago and cannot unmake it. The
-rebels handle most of this. Background combat is at its densest here.
+conspirators handle most of this. Background combat is at its densest here.
 
 **The City Center:** Wide, ceremonially paved, lined with Barong statues. Open space in the middle of
 the district — the civic heart of the original kingdom, still maintained as such.
@@ -164,7 +164,7 @@ suffocating — shrines on every surface, offerings burning continuously, the Ba
 approach path grimacing in their stone. The air has color. This is the concentrated face of everything
 the lower city was papering over.
 
-The rebel force does not reach this far. From here, Natha is alone.
+the conspirator force does not reach this far. From here, Natha is alone.
 
 **The Inner Court:** Rangda's ritual practitioners — not soldiers. People who kept the corruption
 liturgically maintained for two centuries. They fight differently, more coordinated, less aggressive, like
@@ -212,7 +212,7 @@ He does not wait for response. He is done when he is done. The garden is missabl
 chase the player down.
 
 **The Corridor:** The main path to the palace entrance. Long and deliberate. Every shrine active, every
-offering burning. The sound of the rebellion has completely disappeared. Just Natha's footsteps and
+offering burning. The sound of the conspiracy has completely disappeared. Just Natha's footsteps and
 the incense.
 
 Then Sayan. Standing in the threshold at the far end. The Rangda mask pressed against his face — not
@@ -254,7 +254,7 @@ needing it explained.
 _Dominated:_ Natha catches him before he hits the ground. He performs a purification — not a
 dramatic ritual, something quieter, the mask's power used for the first and maybe only time to give
 rather than take. The corruption in the cracked Sak Yant lines recedes. Sayan survives. In the ending
-crowd scene he is there, held up by two rebels on either side of him, present but not standing on his
+crowd scene he is there, held up by two conspirators on either side of him, present but not standing on his
 own. He does not kneel. He probably cannot. But he is himself and he is there.
 
 _Consumed:_ Natha does not stop. The thing wearing him registers Sayan as an obstacle that has
@@ -275,7 +275,7 @@ He heard it. He understood it. He does not have enough left to answer it.
 
 Sayan is alive at the end of the Sealed path — dying slowly on the corridor floor, the corruption
 progressing through the fractures in his tattoos, the protection that was supposed to keep him safe
-now keeping him conscious through all of it. Nobody comes back down the corridor. The rebels do not
+now keeping him conscious through all of it. Nobody comes back down the corridor. the conspirators do not
 reach this far. He is alone with it. The Sealed ending does not show what happens to him. It does not
 need to.
 
@@ -419,7 +419,7 @@ armrest of the throne beside him.
 _If the player found Widiasta's chamber and carries Ratna Manggali's wedding jewelry:_ Natha sets
 it in the ash. No cutscene explaining why. Just the object, placed. The camera holds on it.
 
-The people file in — rebels first, then civilians, then whoever survived. They kneel unevenly,
+The people file in — conspirators first, then civilians, then whoever survived. They kneel unevenly,
 organically, as they arrive. It does not look like ceremony. It looks like relief.
 
 The camera finds Antara in the crowd. Not kneeling. Standing near the back, watching Natha on the
@@ -532,14 +532,14 @@ _Document version 1.0 — Capital area complete_
 
 ```
 LOWER CITY
-├── Rebel arrival & civilian conversion (background)
+├── conspirator arrival & civilian conversion (background)
 ├── NPC — old woman (missable, leads to Widiasta's chamber)
 ├── Gate mechanism — four corrupted shrines
 └── Gate opens → court district alert triggers
 ```
 ```
 COURT DISTRICT
-├── Puppet court combat (rebels handle background)
+├── Puppet court combat (conspirators handle background)
 ├── City center — Ki Luruh entrance (spear from elevation)
 └── BOSS: Ki Luruh — Second Form
 ```

@@ -84,7 +84,7 @@ He has been posted here long enough to be comfortable. He has stopped thinking a
 
 He fights because he has guards and he gives orders. His actual combat capability is not the point. The point is that he does not believe, until the moment it is too late to matter, that the person who just entered his compound is something the guards cannot handle.
 
-After he falls, Satya is quiet for a moment. Then he accepts the rebel base mantra. Then he packs his camp in under ten minutes and leaves without looking back at the Crossroads.
+After he falls, Satya is quiet for a moment. Then he accepts the conspirator base mantra. Then he packs his camp in under ten minutes and leaves without looking back at the Crossroads.
 
 **VII. Lake Approach / Lakeside Ruins (Hunter Camp B)**
 
@@ -148,7 +148,7 @@ He removes the Khon mask. No explanation. Just removes it. Shows his face. Puts 
 
 Then he listens.
 
-Natha gives him the rebel base mantra — the access that lets him cross the Veil and reach Wikananda's people. Sayan takes it the way he takes most things: without visible gratitude, with complete intention to use it.
+Natha gives him the conspirator base mantra — the access that lets him cross the Veil and reach Wikananda's people. Sayan takes it the way he takes most things: without visible gratitude, with complete intention to use it.
 
 They do not become allies in any formal sense. They become two people who have stopped trying to kill each other and are going in the same direction.
 
@@ -208,9 +208,9 @@ The Cliff Approach opens. The ascent begins.
 
 ## Key Characters
 
-**Satya** — At Hunter Camp A. Does not approach first. Transaction-based cooperation. Quest: kill the Overseer, receive rebel base mantra. Relocates to base afterward. Sells bow techniques and supplies. Holds the belief that the villagers can be cured without telling anyone he believes it.
+**Satya** — At Hunter Camp A. Does not approach first. Transaction-based cooperation. Quest: kill the Overseer, receive conspirator base mantra. Relocates to base afterward. Sells bow techniques and supplies. Holds the belief that the villagers can be cured without telling anyone he believes it.
 
-**Sayan** — At the Ritual Ground. Arrived independently. Witch hunter, Sak Yant-covered, wearing the lower half of a Khon mask. Has been mapping the occupation from a distance. Attacks Natha immediately on sight — mistakes him for Rangda's servant. After the fight settles, removes his mask briefly, receives the rebel base mantra from Natha. Meeting Natha is the first confirmation he has had that Rangda is actually killable. Sells techniques and information. Returns at key moments.
+**Sayan** — At the Ritual Ground. Arrived independently. Witch hunter, Sak Yant-covered, wearing the lower half of a Khon mask. Has been mapping the occupation from a distance. Attacks Natha immediately on sight — mistakes him for Rangda's servant. After the fight settles, removes his mask briefly, receives the conspirator base mantra from Natha. Meeting Natha is the first confirmation he has had that Rangda is actually killable. Sells techniques and information. Returns at key moments.
 
 **Hunters (Camp B, Camp C)** — No names currently established. Independent traders. Sell goods without questions. Their camps are landmarks more than characters — reliable safe points in a zone that is otherwise occupied or corrupted territory.
 

@@ -1,16 +1,16 @@
 # Wikananda
 
-## The Last Royal Pedanda — Leader of the Rebellion
+## The Last Royal Pedanda — Leader of the conspiracy
 
 Relation: [[Prince Natha]], [[Sayan]]
 ## Overview
 
-Wikananda is the leader of the rebellion against Rangda's two-hundred-year occupation of
+Wikananda is the leader of the conspiracy against Rangda's two-hundred-year occupation of
 Devata Island. He is not a general. He is not a strategist by training or by choice. He is a pedanda
 — a Brahmin high priest whose family served the royal bloodline of Devata Island for
 generations — forced into a role the occupation created and his theology never prepared him for.
 
-He is old. He has been doing this longer than most of his rebels have been alive.
+He is old. He has been doing this longer than most of his conspirators have been alive.
 
 He knows more than anyone on the island about the mask, the contract Baradha built, the
 cosmological mechanics of what Rangda is and what the Barong was meant to be. He inherited
@@ -76,7 +76,7 @@ Baradha's contract, explain the atma fracture mechanism, describe the cosmologic
 between Barong and Rangda with complete precision.
 
 He has never seen any of it function. His grandfather's accounts described kings calling the
-mask's power. His father's accounts described the rebellion's early attempts at the altar ritual.
+mask's power. His father's accounts described the conspiracy's early attempts at the altar ritual.
 Wikananda himself has only ever seen the mask kill.
 
 He inherited the role of keeper before he was ready. His father died and left a gap and Wikananda
@@ -87,7 +87,7 @@ certainty feels real. Most days it is the most disciplined performance of his li
 **The Altar**
 
 The ritual requires the right bloodline. This is what the records say. This is what Baradha's
-contract specifies. Two hundred years of the rebellion attempting the ritual means two hundred
+contract specifies. Two hundred years of the conspiracy attempting the ritual means two hundred
 years of Wikananda's lineage evaluating candidates — tracing genealogies through occupation
 and hiding and record loss, identifying men with sufficient claim to the royal bloodline, bringing
 them to the altar, and watching them die.
@@ -112,9 +112,9 @@ He does not know that one of the men in that ground is the prince's father. The 
 years ago. Was evaluated. Had the right bloodline. Died on the altar. Was buried with the others.
 Wikananda cannot remember his face. He is part of the count now, unnamed like the rest.
 
-## The Rebellion
+## the conspiracy
 
-Wikananda leads the rebellion by default and by necessity. Priests do not hold political office.
+Wikananda leads the conspiracy by default and by necessity. Priests do not hold political office.
 They advise kings, tend to the sacred, maintain cosmic harmony through ritual precision. The
 occupation removed every structure that would have given the resistance a proper leader and
 left Wikananda — the most respected figure among the survivors, the keeper of the knowledge
@@ -124,7 +124,7 @@ a role his entire training never covered.
 He learned. Two hundred years of his lineage learned. But it never stopped being an
 improvisation performed as certainty.
 
-The pemangku in the rebel base are the backbone of everything. They do what pemangku have
+The pemangku in the conspirator base are the backbone of everything. They do what pemangku have
 always done — daily rituals, ancestor contact, maintaining the sacred routines, providing
 spiritual counsel to a community that has been living in hiding for generations. They perform the
 ceremonies of ordinary life under extraordinary circumstances because the alternative is losing
@@ -171,12 +171,12 @@ or cowardice he does not know and has stopped trying to determine.
 
 ## Death
 
-Wikananda dies in his chamber at the rebel base. Not in battle. Not by Rangda's hand. His body
+Wikananda dies in his chamber at the conspirator base. Not in battle. Not by Rangda's hand. His body
 simply stops — an old man who held on long enough to see the mask choose its vessel, long
 enough to guide that vessel through most of the journey, long enough to know the palace assault
 is ready and the ending is coming.
 
-He dies during war preparation. The base is at its highest pitch of forward momentum — rebels
+He dies during war preparation. The base is at its highest pitch of forward momentum — conspirators
 sharpening weapons, pemangku performing pre-battle rites, everyone moving toward the thing
 they have been building toward for generations. In the middle of all of that, Wikananda's
 chamber goes quiet.
@@ -243,7 +243,7 @@ death receives the full weight of everything his community has left to give.
 
 The preparation does not stop. It continues alongside the ceremony, because he would have
 wanted that, because he spent his entire life refusing to let grief halt the mission, and the
-rebellion honors him by doing the same thing.
+conspiracy honors him by doing the same thing.
 
 Natha storms the palace carrying the last words Wikananda gave him. Every decision from the
 gate onward belongs to Natha alone.

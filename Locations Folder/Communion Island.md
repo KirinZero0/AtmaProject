@@ -8,9 +8,9 @@
 
 A small island sitting off the coast of Devata Island, invisible from the water, perpetually shrouded in boundary fog — the kind that forms where the material world and spirit world press against each other long enough that the membrane between them softens.
 
-Nobody goes there. Not Rangda's troops, not the rebels, not travelers. The fog discourages approach in a way that isn't hostile — just unwelcoming, the way a space feels when it belongs to something else.
+Nobody goes there. Not Rangda's troops, not the conspirators, not travelers. The fog discourages approach in a way that isn't hostile — just unwelcoming, the way a space feels when it belongs to something else.
 
-The only way in from the material world is through a hidden passage in the rebel caverns, opened by the audience mantra. Antara doesn't use doors — he travels via spirit world and has been coming here for centuries.
+The only way in from the material world is through a hidden passage in the conspirator caverns, opened by the audience mantra. Antara doesn't use doors — he travels via spirit world and has been coming here for centuries.
 
 ---
 
@@ -58,7 +58,7 @@ He does not mention he has been going there himself for years. He does not menti
 
 ## Accessing the Island
 
-The hidden entrance is in the rebel caverns — looks like a wall until the audience mantra is recited correctly in front of it. Then it opens.
+The hidden entrance is in the conspirator caverns — looks like a wall until the audience mantra is recited correctly in front of it. Then it opens.
 
 The passage is long enough that arriving on the other side feels like arriving somewhere.
 

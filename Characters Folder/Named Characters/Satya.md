@@ -6,7 +6,7 @@ Relation: [[Prince Natha]], [[Wikananda]]
 
 ## Overview
 
-Satya is not a fighter. He is not a rebel. He is a man who used to be a farmer, became a hunter out of necessity, and has been refusing to leave his village for two years because leaving would mean admitting there is no village left to come back to.
+Satya is not a fighter. He is not a conspirator. He is a man who used to be a farmer, became a hunter out of necessity, and has been refusing to leave his village for two years because leaving would mean admitting there is no village left to come back to.
 
 He is the first living person in the Grassland who will actually talk to Natha. Not because he trusts strangers — he doesn't — but because he has been waiting for someone capable of killing the Overseer, and Natha is the first person who has looked capable of it.
 
@@ -18,7 +18,7 @@ Satya grew up in the village at the Crossroads — the one that is now a slave o
 
 When Rangda's forces arrived and the corruption began spreading through the food supply — spirit world animals hunted and eaten by people who did not know what they were eating — Satya was in the forest. He came back to a village that had already started to change. He watched it finish changing over the following weeks.
 
-He did not leave. He tells himself this is because someone needs to watch over them. This is partly true. The other part is that leaving would require a destination, and the only destination available is the Rebellion Base, and going there would mean accepting that the village is gone and the people in it are gone and what remains is something else wearing their faces.
+He did not leave. He tells himself this is because someone needs to watch over them. This is partly true. The other part is that leaving would require a destination, and the only destination available is the conspiracy Base, and going there would mean accepting that the village is gone and the people in it are gone and what remains is something else wearing their faces.
 
 He is not ready to accept that. He may never be ready. He is a hunter, and hunters are patient, and he has decided to wait.
 
@@ -42,7 +42,7 @@ He accepts the base mantra without ceremony. He does not thank Natha. He says he
 
 He is.
 
-## At the Rebellion Base
+## At the conspiracy Base
 
 Satya arrives at the Veil with his bow, his camp tools, and nothing else. He sets up in a corner of the base that has good sightlines to the entrance and begins making himself useful in the way hunters make themselves useful — quietly, practically, without asking for acknowledgment.
 

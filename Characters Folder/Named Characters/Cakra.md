@@ -54,7 +54,7 @@ He had been waiting for a long time. Devata had been suffering for a long time. 
 
 ## The Stranger
 
-Someone came to the Shore village. Not Rangda's soldier, not a rebel — a stranger, passing through, the kind of person who moves through occupied territory without explanation and without trouble. He spoke to Cakra privately. He knew what Cakra was looking for — protection, power, something that could stand against the Gatekeeper without the village paying for it.
+Someone came to the Shore village. Not Rangda's soldier, not a conspirator — a stranger, passing through, the kind of person who moves through occupied territory without explanation and without trouble. He spoke to Cakra privately. He knew what Cakra was looking for — protection, power, something that could stand against the Gatekeeper without the village paying for it.
 
 He told Cakra about spirit beast consumption. Immortality. Strength that no ordinary force could overcome. He described it as a tool, as a means, as exactly the thing Cakra had been praying to find.
 
