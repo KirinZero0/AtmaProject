@@ -1,2 +1,5 @@
 [[Dedari]]
 [[Garuda]]
+[[Lore Folder/Beings/Buta Kala|Buta Kala]]
+[[Spirit Beasts]]
+[[Rakshasa]]

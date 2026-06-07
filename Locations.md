@@ -4,3 +4,4 @@
 [[Middle Ground]]
 [[Cliff Temple]]
 [[Capital Outskirts]]
+[[Pura Adi]]

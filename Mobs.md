@@ -1,0 +1,13 @@
+[[Bowman]]
+[[Vanguard]]
+[[Mutated Commander]]
+[[Elite Guard]]
+[[Commander]]
+[[Footsoldier]]
+[[Mutated Villager]]
+[[Spirit Beast Dog]]
+[[Characters Folder/Mob/Buta Kala|Buta Kala]]
+[[Elephant Commander]]
+[[Tiger Guard]]
+[[Garuda Unit]]
+
