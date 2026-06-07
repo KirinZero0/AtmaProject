@@ -104,6 +104,14 @@ The open space below the gate. Once used for communal ceremony. Currently a defe
 
 Rangda's soldier. Not a commander — a specialist. The person assigned specifically to hold this gate against anything that reached it. He has held this position for years without incident. His discipline is intact. His technique is intact. He does not know what the mask is but he knows the person wearing it is not going to stop, which means he cannot either.
 
+**Appearance**
+
+He wears a mask. Topeng-style, like the one Natha will see again — heavier, stranger, more deliberate — on the Gatekeeper holding the Cliff Approach in the Middle Ground. This is the player's first look at the shape of Rangda's hierarchy: the mask as the mark of trust, the soldier she lets stand at a door without supervision.
+
+His is plainer. Functional carving, the paint worn down to bare wood at the cheekbones and brow from years of sweat and weather and use. Whatever ritual significance it carries, it has been doing a job for a long time and looks like it. The armor underneath is standard-issue heavy infantry — well-maintained, unremarkable, the gear of someone competent rather than someone celebrated.
+
+He is not an elite by the standards Natha hasn't met yet. He is good at one thing, has been doing that one thing in this exact spot for years, and has never had reason to imagine he would need to be more than that. Compared to what waits at the Cliff Approach, he is a smaller note in the same chord — recognizable in hindsight as the first time the player heard it.
+
 This is a straight fight. No tragedy here, no half-remembered humanity. He chose this and he is still choosing it at the moment it ends.
 
 When he falls, the gate opens from the inside for the first time in years. The lock Natha used the village chief's key to disengage from Shore Area 2 now turns from this side. The door swings toward the village road below. The shrine at its base is on the other side of a door that is no longer closed.
@@ -116,19 +124,11 @@ The game does not pause for this. Natha is already moving toward the Grassland a
 
 **Discovery**
 
-Puzzle-locked entrance in the cliff face of Shore Area 2. Pre-occupation. Unknown to Rangda's forces. The cues are environmental — a pattern in the stonework, an offering niche that faces the wrong direction for the surrounding architecture, the specific quality of weathering on stone that has been touched by human hands across centuries and then not touched at all.
+A gate. Puzzle-locked entrance in the cliff face of Shore Area 2. Pre-occupation. Unknown to Rangda's forces. The cues are environmental — a pattern in the stonework, an offering niche that faces the wrong direction for the surrounding architecture, the specific quality of weathering on stone that has been touched by human hands across millennia and then not touched at all.
 
-**Interior**
+The door does not lead to an interior in the Shore. It leads through — into the space between the material world and the spirit world. What exists on the other side is its own location: **[[Pura Adi]]**, the threshold temple.
 
-Older than the Shore Temple. Older than the kingdom. The architecture belongs to people whose name has not survived, only their stonework and their instinct for where to put a door. No corrupted iconography because no one has been here since the occupation began. The darkness here is not Rangda's. It is the darkness of a sealed room and a very long time, which is its own kind of wrong.
-
-Two paths: Area 1 through Area 2 to the boss, and a door in Area 1 that connects directly to the boss chamber — visible, accessible-looking, locked from the boss side. The blocked door is not hidden. It simply does not open yet.
-
-**The Boss**
-
-Not Rangda's. Whatever guards the deepest chamber was here before the occupation and will be here after. It fights the way things fight when they have been undisturbed for a long time and do not recognize what is standing in front of them — not aggression, not malice, the specific hostility of something ancient being interrupted.
-
-The reward is the **Audience Mantra**, carved into the chamber wall. Left deliberately, by someone who understood what it was and understood that whoever needed it would have to earn the right to read it. It is the key to Communion Island. It is the key to the Dominated path. It has been sitting in the dark on the Shore waiting for Natha specifically, though it did not know his name.
+*See: Pura Adi location document.*
 
 ---
 

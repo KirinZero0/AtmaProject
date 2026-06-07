@@ -164,13 +164,45 @@ The temple at the base of the cliff — accessible from the Upper Road (Mystic S
 
 The interior leads upward to the Cliff Approach.
 
-**XV. BOSS: Gatekeeper → Cliff Approach**
+**XV. BOSS: The Gatekeeper → Cliff Approach**
 
-The boss holding the passage to the Cliff Approach and, beyond it, Cliff Temple.
+The boss holding the passage to the Cliff Approach and, beyond it, Cliff Temple. The first true introduction to what Rangda's elite actually look like — not common infantry, not an experiment, not a tragedy. Proof that the occupation produces soldiers of real, disciplined competence, and that some of them wear masks for reasons that have nothing to do with corruption or curses.
 
-*[Boss design — TBD]*
+**Appearance**
 
-When the Gatekeeper falls, the Cliff Approach opens. The ascent begins.
+Heavily armored — full coverage, every plate deliberate, the kind of weight that changes how a person moves and that this man has clearly carried long enough to make look unremarkable. Over the armor, a ceremonial mask. Topeng-style, ornate, carved with the same craft tradition that produced every sacred mask on Devata Island — except this one was made for Rangda's hierarchy, not Barong's.
+
+The mask is not a curse. It is not corruption. It is rank. Within Rangda's military structure, only soldiers who reach a certain level of proven loyalty and competence are permitted to wear one. It is the highest honor the occupation offers — and once granted, it does not come off. Not in front of others. Not in private, as far as anyone has observed. The mask has been part of this man for so long that the soldier who existed before it may not meaningfully exist anymore. He has been "the Gatekeeper" — function, title, role — for longer than he was ever anything else.
+
+This is the collision the player should feel on sight: Natha wears a mask because Barong chose him. The Gatekeeper wears one because Rangda's system rewarded him for service. Same object. Same island's craft tradition. Completely incompatible meanings, standing twenty feet apart.
+
+**Weapon — The Keris**
+
+He fights with a keris — the wavy-bladed dagger of Devata's oldest traditions, an object soaked in centuries of ritual and cosmological weight. Whether this particular blade was looted, awarded, or inherited through the ranks of Rangda's hierarchy is not something he has ever explained to anyone who could repeat it. It moves like it has been part of him for as long as the mask has — an extension rather than a tool.
+
+**Combat Identity**
+
+Slow. Methodical. Unhurried in a way that reads as confidence because it is confidence. He does not waste motion. He does not posture. Every strike lands exactly where he intends it to land, and he has never needed to do more than that, because no one has ever made him need to.
+
+He is the proof-of-competence the occupation can produce when it actually invests in someone — a clean, unsettling contrast to everything Natha has fought in the Middle Ground so far. Cakra was tragedy wearing a weapon. The Overseer was a bureaucrat with guards. The Gatekeeper is simply, completely good at this, and has been for longer than it should be possible to stay good at something this ugly.
+
+**Ability — Spectral Conscription**
+
+When pressed, the Gatekeeper raises the keris and tears something loose from the other side of the veil. Not living reinforcements — soldiers who are no longer alive, pulled through the thinning boundary and bound into temporary, translucent form. They fight with the shapes and weapons they carried in life, faded and wrong-colored, present only as long as the Gatekeeper's will holds them here.
+
+This is the detail that should unsettle the player most, once it lands: Rangda's elite are leaning on the same broken-veil mechanics that produced every spirit beast, every consumed villager, every stranded divine being Natha has encountered. The occupation calls this discipline and devotion. It is the same rot, wearing better armor.
+
+**The Fight**
+
+The spectral soldiers do not hit hard individually — they are there to divide attention, to force Natha to choose between managing the field and pressing the Gatekeeper directly. The Gatekeeper himself does not change his rhythm to compensate. He does not need to. He simply keeps doing what he has always done, patiently, while the conjured dead do the work of complicating everything around him.
+
+There is no monologue. No tragic backstory delivered mid-fight. He does not address Natha as an equal, an obstacle, or anything requiring commentary. He is doing his job. He has always been doing his job. The mask makes sure no one — including, perhaps, himself — ever has to find out what doing anything else would feel like.
+
+**When he falls**
+
+The mask does not crack, does not reveal a face underneath struggling to surface, does not offer a final human moment. It simply stops moving, the way the rest of him stops moving. Whatever recognition or grief or doubt might once have lived under it left a long time ago, on a day with no ceremony attached to it, that nobody marked as significant when it happened.
+
+The Cliff Approach opens. The ascent begins.
 
 ---
 
