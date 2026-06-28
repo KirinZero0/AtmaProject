@@ -2,36 +2,50 @@
 
 ## What It Is
 
-The keris is widely understood as a sacred dagger — a conduit of magic and ritual, not a weapon of war. In Balinese tradition it carries spiritual weight beyond its physical form. It is an object of ceremony, of channeling, of connection between the mortal and the divine.
+The keris is a sacred dagger — not a weapon of war but a conduit of power. In Devata's tradition it is an object of ceremony and channeling, a bridge between the mortal and the forces that exceed it. Every keris carries the nature of its type. They are not interchangeable.
 
-[[Prince Natha]]'s keris is something older than most.
+## The Three Types
 
-## The Inherited Keris
+### Astra
 
-Natha inherited a petrified keris that passed through the hands of every king who bore the Barong mask across eight hundred years. It is ornate — gold worked into its fittings, gemstones set into the hilt. It looks like something that belongs in a shrine, not a scabbard.
+An Astra keris does not look like what it is. In its sealed form it is a dagger — ornate or plain depending on its maker, identifiable as a keris by its distinctive wavy blade. Nothing about it announces what lives inside.
 
-It is petrified. Age and the accumulation of sacred use have hardened it into something beyond an ordinary blade. It should not be used in physical combat. It was not made for that and it would not serve well in that role.
+The true form is revealed through mantra — a specific chant that releases the seal and allows the keris to become what it actually is. That true form is a weapon, and it could be anything: a greatsword, a spear, a war hammer, a bow. Whatever the Astra contains is single and fixed. One keris, one weapon, one release. The mantra calls it forth and the mantra seals it back.
 
-What it was made for — what it has always been — is a conduit.
+Astra keris are the weapons of warriors and named soldiers. They are not common but they are not rare — the elite carry them as a matter of rank as much as function. Some commanders have one. Most use something else.
 
-## Function
+### Conduit
 
-The keris is the anchor through which the Barong Mask's power takes physical form. Without it, the mask cannot materialize weapons or armor. With it, the full arsenal of the past kings becomes accessible — greatsword, gauntlet, dagger, bow, whatever form the power is asked to take.
+A Conduit keris does not stay in a scabbard. It floats — close to its master, never quite touching, drifting at the edge of attention like something that has learned to follow. It is attuned to a single owner and serves that owner's will without requiring a hand to hold it.
 
-It also serves as a conduit for magic more broadly. Spells, rituals, anything requiring a channel between Natha and the mask's power passes through the keris.
+Mages and witches use Conduit keris. Disciples of Rangda carry them. The magic they perform passes through the keris as a channel — spells, puppet strings, the particular dark work that Rangda's craft requires. A Conduit keris in the hands of someone who knows what they are doing is a significant force multiplier.
 
-In combat Natha does not fight with it. He fights with what it summons.
+At the lower end, Conduit keris are simple tools for simple purposes. Commanders in Rangda's military carry diluted versions — not powerful enough for offensive magic, functional enough to buff and direct soldiers under their command. The principle is the same regardless of level. The channel is open. Something flows through it.
 
-## Weight of Inheritance
+At the high end, a Conduit keris can do something else entirely.
 
-Every king who used this keris left something in it — not memories like the mask, but presence. The accumulated weight of eight hundred years of sacred use. It is not haunted. It is heavy in a way that has nothing to do with its physical mass.
+Some Conduit keris — the most powerful, the most fully attuned — can transform their master. The mechanism is direct and does not suggest metaphor: the keris drives itself into its master's heart. The transformation that follows is the true form of the master given physical reality. Not an enhancement. An unveiling.
 
-## The Altar
+[[Rangda]]'s keris is this type. [[Ki Luruh]]'s keris is this type, though the transformation available to a disciple is not the same as what is available to the master.
 
-The keris was not passed to Natha by hand. It was waiting on the altar when the conspirators brought him there — laid out alongside [[The Barong Mask]], ready for whoever the bloodline finally sent. the conspirators had kept both objects for years, running candidate after candidate through the same ritual, hoping one would take.
+The transformation capability is specific to the keris, not the act. A person who stabs themselves in the heart with an ordinary keris — or an Astra keris, or any keris not attuned for this purpose — does not transform. They die. This has happened. The people who attempted it had heard enough about what Conduit keris could do and concluded that the mechanism was in the stabbing. It was not. It was never in the stabbing. The keris has to know what its master is. An unattuned blade has no knowledge of anything. It is just a blade going into a heart.
 
-His father was among those candidates. He came to Devata ten years before Natha, found the conspiracy, believed in what they were doing. He stood at the same altar, with the same keris and the same mask. It wasn't enough. The mask rejected him and consumed him. He became one of the headless bodies arranged in a ring around the altar where his son would later wake up.
+### Artifact
 
-Natha came to consciousness surrounded by everything — the mask warm against his face, the keris within reach, his father's body somewhere in the ring without him knowing it. He picked up the keris because it was there and he needed something to hold.
+An Artifact keris does not exist independently. It comes paired with a specific artifact — and outside of that pairing it has no fixed purpose and no meaning. The artifact defines what it is and what it can do.
 
-He has been holding it ever since without fully understanding what it is.
+What an Artifact keris can do is specific to its pair and cannot be generalized. Each pairing is its own logic.
+
+## Natha's Keris — The Mask's Materialization
+
+Natha did not arrive at the altar with a keris. The conspiracy did not provide one.
+
+When [[The Barong Mask]] accepted him — when the recognition passed through the mask and the bloodline answered and something that had been waiting two hundred years decided — the keris appeared. Not placed. Not handed over. Materialized. The mask built it into existence for its accepted host, and it was simply there when Natha reached for something to hold.
+
+It is an Artifact keris, paired to the Barong Mask. Its function is not conduit in the general sense, and it does not carry a single sealed weapon in the Astra sense. What it does is allow the mask to materialize weapons — and those weapons are not fixed.
+
+A standard Astra keris has one true form. The mask's Artifact keris has as many forms as the mask has memories. Eight hundred years of kings, their weapons, their fighting knowledge — the same archive the mask carries in its accumulated dead is accessible through the keris as physical materialization. Greatsword. Gauntlet. Dagger. Bow. Whatever the moment requires. Whatever the bloodline remembers.
+
+Natha does not fight with the keris. He fights with what it produces.
+
+He has been holding it since the altar without fully understanding what it is. He understands that it matters. That is currently enough.

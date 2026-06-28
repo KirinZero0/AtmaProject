@@ -174,6 +174,16 @@ strings across this much distance requires her to remain stationary, the center 
 spans the entire island. She does not appear to resent this. She has not moved voluntarily in two
 hundred years. She may have forgotten what it felt like.
 
+## Keris
+
+Rangda carries a Conduit keris — the highest tier the type can reach. It floats at the edge of her presence, never far, rarely noticed by anyone in the throne room because everything about the throne room is already wrong and one more wrong thing does not register.
+
+Her keris is not a tool for the puppet strings. The strings are her own power, routed through her will without a channel. The keris exists for something else.
+
+It can drive itself into her heart. The transformation that follows is not metaphor and not enhancement — it is her true form made physical. The Calonarang in full, the thing she was before the grief learned to wear a court. She does not wear it in the throne room. The throne room cannot hold it. The transformation is for when nothing else remains and she has decided to stop performing restraint.
+
+The prince will see it before the end.
+
 ## How She Operates
 
 ### The Dishonesty

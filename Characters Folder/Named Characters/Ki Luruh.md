@@ -76,6 +76,16 @@ light and something clicks.
 
 She looks like herself for the first time. It's genuinely unsettling.
 
+## Keris
+
+Ki Luruh carries a Conduit keris — standard issue for Rangda's disciples, floating at her side, channeling the dark craft she has spent her existence studying. It is how she works magic. It is how she channels Rangda's methods into practical application.
+
+It can also transform her. Not to the degree that Rangda's keris transforms Rangda — a disciple's transformation is not the same as the master's, and the gap between them is not something Ki Luruh has closed despite everything she has invested. But the potential is there. The keris knows what she is underneath the discipline and the borrowed iconography and the performance of devotion.
+
+She does not use it in the first encounter. In the rematch, late in Phase Two, after the spear is already broken and the performance is already over and she has decided she has nothing left to spend — she uses it then. The keris drives into her heart. What comes forward is Ki Luruh with nothing left to hide.
+
+It does not save her.
+
 ## Background
 
 Ki Luruh came to Rangda willingly. The occupation of the island had already been complete for
